@@ -43,7 +43,7 @@ async function getModel() {
       }
     });
 
-    console.log("Exam Panic is ready to create local study plans.");
+    console.log("Exam Panic is ready to create local study plans locally.");
 
     return modelId;
 
