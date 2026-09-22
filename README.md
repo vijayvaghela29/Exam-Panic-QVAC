@@ -26,7 +26,7 @@ It helps students create practical exam study plans from their subjects, availab
 
 This project uses:
 
-`@qvac/sdk`
+@qvac/sdk@0.19.1
 
 The QVAC model is loaded and executed locally using QVAC's on-device inference.
 
